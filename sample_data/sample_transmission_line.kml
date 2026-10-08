@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Transmission Line Survey</name>
+    <Placemark>
+      <name>Line 400kV Corridor</name>
+      <description>High voltage transmission line segment</description>
+      <LineString>
+        <coordinates>
+          77.5900,12.9700,0
+          77.5950,12.9730,0
+          77.6000,12.9780,0
+          77.6050,12.9800,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
