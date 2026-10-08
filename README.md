@@ -323,8 +323,8 @@ Returns a list of all processed geospatial files.
 
 1. **Clone the repository**:
    ```bash
-   git clone <repo-url>
-   cd aereo_sde
+   git clone https://github.com/lakshminarasimmann/geospatial-measurement-api.git
+   cd geospatial-measurement-api
    ```
 
 2. **Create and activate a virtual environment**:
